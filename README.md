@@ -1,6 +1,12 @@
 # Extended_unmixing_algorythms
 Matlab and python, Extendend Spectral Unmixing Algorythms for Linear and Multilinear Mixing Models 
 
+**Author:** Juan Nicolas Mendoza-Chavarria & Daniel Ulises Campos Delgado  
+
+**MATLAB Version:** Tested on MATLAB R2021b+  
+** Python Requirements:
+
+
 ##  Description
 This toolbox implements state-of-the-art **hyperspectral unmixing** algorithms, including:
 - **EBEAE**: Extended Blind End-Member and Abundance Extraction.
