@@ -4,7 +4,8 @@ Matlab and python, Extendend Spectral Unmixing Algorythms for Linear and Multili
 **Author:** Juan Nicolas Mendoza-Chavarria & Daniel Ulises Campos Delgado  
 
 **MATLAB Version:** Tested on MATLAB R2021b+  
-** Python Requirements:
+** Python Requirements:**
+
 
 
 ##  Description
