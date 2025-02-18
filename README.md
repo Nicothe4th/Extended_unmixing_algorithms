@@ -5,6 +5,13 @@ Matlab and python, Extendend Spectral Unmixing Algorythms for Linear and Multili
 
 **MATLAB Version:** Tested on MATLAB R2021b+  
 **Python Version:** Tested on Python 3.9.20
+***Libraries:*** 
+  joblib==1.1.1
+  matplotlib==3.5.3
+  numpy==1.22.3
+  pandas==1.4.4
+  scikit_learn==1.1.3
+  scipy==1.7.3
 
 
 
