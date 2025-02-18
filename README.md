@@ -16,14 +16,14 @@ scipy==1.7.3
 
 ##  Description
 This toolbox implements state-of-the-art **hyperspectral unmixing** algorithms, including:
-- **EBEAE**: Extended Blind End-Member and Abundance Extraction.
-- **EBEAETV**: Extended Blind End-Member and Abundance Extraction with Total Variation.
+- **EBEAE**: Extended Blind End-Member and Abundance Extraction. (DOI: [10.1109/ACCESS.2019.2958985](https://doi.org/10.1109/ACCESS.2019.2958985))
+- **EBEAETV**: Extended Blind End-Member and Abundance Extraction with Total Variation. (DOI: [0.1016/j.jfranklin.2023.08.027](https://doi.org/10.1016/j.jfranklin.2023.08.027))
 - **EBEAESN**: Extended Blind End-Member and Abundance Extraction with Sparse Noise.
 - **EBEAESNTV**: Extended Blind End-Member and Abundance Extraction with Sparse Noise and Total Variation.
 - **ESSEAE**: Extended Semi-Supervised End-Member and Abundance Extraction.
 
-- **NEBEAE**: Nonlinear Extended Blind End-Member and Abundance Extraction.
-- **NEBEAETV**: Extended Blind End-Member and Abundance Extraction with Total Variation.
+- **NEBEAE**: Nonlinear Extended Blind End-Member and Abundance Extraction. (DOI: [10.1016/j.sigpro.2022.108718](https://doi.org/10.1016/j.sigpro.2022.108718))
+- **NEBEAETV**: Extended Blind End-Member and Abundance Extraction with Total Variation. (DOI: [10.1016/j.jfranklin.2024.107282](https://doi.org/10.1016/j.jfranklin.2024.107282))
 - **NEBEAESN**: Extended Blind End-Member and Abundance Extraction with Sparse Noise.
 - **NEBEAESNTV**: Extended Blind End-Member and Abundance Extraction with Sparse Noise and Total Variation.
 - **NESSEAE**: Extended Semi-Supervised End-Member and Abundance Extraction.
