@@ -416,7 +416,7 @@ def total_variance(A, Y, P, Lambda, nu, tau, nRow, nCol, epsilon, maxiter):
 
     # Enforce non-negativity and normalize rows of Ww (transposed abundance matrix)
     Ww[Ww < 0] = 0
-    W = Ww.T / np.sum(Ww.T, axis=1, keepdims=True)
+    W = Ww.T / np.sum(Ww.T, axis=0, keepdims=True)
     return W
 
 
