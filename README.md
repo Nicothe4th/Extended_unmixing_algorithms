@@ -1,5 +1,5 @@
-# Extended_unmixing_algorythms
-Matlab and python, Extendend Spectral Unmixing Algorythms for Linear and Multilinear Mixing Models 
+# Extended_unmixing_algorithms
+Matlab and python, Extendend Spectral Unmixing Algorithms for Linear and Multilinear Mixing Models 
 
 **Author:** Juan Nicolas Mendoza-Chavarria & Daniel Ulises Campos Delgado  
 
